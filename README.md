@@ -1,1 +1,1 @@
-# fastapi_inventory
+# Simple FastAPI microservice
